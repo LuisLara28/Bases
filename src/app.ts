@@ -1,5 +1,5 @@
-import { getPokemoNameById } from "./js-foundation/06-promises";
-import { buildLogger } from "./plugins/logger.plugin";
+// import { getPokemoNameById } from "./js-foundation/06-promises";
+// import { buildLogger } from "./plugins/logger.plugin";
 // const { getAge, getUUID } = require("./plugins");
 
 // const { emailTemplate } = require("./js-foundation/01-template");
