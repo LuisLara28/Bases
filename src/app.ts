@@ -1,3 +1,5 @@
+import { getPokemoNameById } from "./js-foundation/06-promises";
+import { buildLogger } from "./plugins/logger.plugin";
 // const { getAge, getUUID } = require("./plugins");
 
 // const { emailTemplate } = require("./js-foundation/01-template");
@@ -6,7 +8,9 @@
 // const { getUserById } = require("./js-foundation/04-arrow");
 // const { buildMakePerson } = require("./js-foundation/05-factory");
 //const getPokemonById = require("./js-foundation/06-promises");
-// const { buildLogger } = require("./plugins");
+
+// getPokemoNameById(25).then()
+
 // const logger = buildLogger("app.js");
 
 // logger.log("Hola Mundo");
